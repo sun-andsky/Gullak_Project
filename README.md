@@ -29,52 +29,65 @@
 ---
 
 ## 🖥️ App Screens  
+<p align="center">
+  <img src="Screenshots/1.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
 
-### 1️⃣ Splash & Onboarding  
-- Dark background with vibrant accent colors (purple, neon green, cyan).  
-- Animated **Gullak** logo and smooth intro slides:  
-  - *Save Pocket Change*  
-  - *Invest Smartly*  
-  - *Learn & Grow*  
 
-### 2️⃣ Login & Signup  
-- Minimal dark UI with neon-accented input fields.  
-- Simple onboarding: Name, age, and income range.  
-- *Tagline:* “Your money, made smart.”  
 
-### 3️⃣ Home Dashboard  
+
+### Login & Signup  
+<p align="center">
+  <img src="Screenshots/1.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
+
+### Home Dashboard  
 - Displays current balance, total invested, and goal progress.  
 - Streaks, badges, and daily AI finance tips.  
-- Quick Actions: **Invest Now**, **Set Goal**, **Learn Finance**.  
+- Quick Actions: **Invest Now**, **Set Goal**, **Learn Finance**.
+<p align="center">
+  <img src="Screenshots/2.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
 
-### 4️⃣ Goal Planning  
-- Create personalized goals (e.g., “Save ₹5,000 for phone”).  
-- AI-generated plan: *“Invest ₹25/day to reach your goal.”*  
-- Animated progress bars and motivational messages.  
-
-### 5️⃣ Micro-Investment  
-- Round-up investments (₹10–₹50 per purchase).  
-- AI recommendations: *“Invest ₹25 today to stay on track.”*  
-- Safe options like mutual funds / micro-SIPs.  
-
-### 6️⃣ AI Agents Dashboard  
+### AI Agents Dashboard  
 - Showcasing five interactive chatbots:  
   Investment Agent | Goal Planner | Finance Tutor | Budget Coach | Engagement Agent.  
 - Each agent has an avatar and **“Chat”** button leading to personalized interaction.  
+<p align="center">
+  <img src="Screenshots/5.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
 
-### 7️⃣ Chat Page  
+### Chat Page  
 - Dark, glowing chat interface with typing animations and emoji support.  
 - First message from each AI agent introduces its role.  
 - Option to switch between agents via **“Switch Agent”** button.  
+<p align="center">
+  <img src="Screenshots/6.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
 
-### 8️⃣ Learning & Gamification  
-- Short, gamified lessons and quizzes on finance.  
-- Earn badges, streaks, and confetti rewards.  
-- Leaderboard or progress indicator for motivation.  
 
-### 9️⃣ Settings & Profile  
+### Micro-Investment  
+- Round-up investments (₹10–₹50 per purchase).  
+- AI recommendations: *“Invest ₹25 today to stay on track.”*  
+- Safe options like mutual funds / micro-SIPs.
+<p align="center">
+  <img src="Screenshots/3.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
+
+### Goal Planning  
+- Create personalized goals (e.g., “Save ₹5,000 for phone”).  
+- AI-generated plan: *“Invest ₹25/day to reach your goal.”*  
+- Animated progress bars and motivational messages. 
+<p align="center">
+  <img src="Screenshots/4.jpg" width="800" alt="AI Agents Dashboard"/>
+</p>
+
+
+
+### Settings & Profile  
 - Manage notifications, AI preferences, and account info.  
 - Track badges, levels, and progress — like a finance RPG.  
+
 
 ---
 
