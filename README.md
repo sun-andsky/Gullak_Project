@@ -29,12 +29,6 @@
 ---
 
 ## 🖥️ App Screens  
-<p align="center">
-  <img src="Screenshots/1.jpg" width="800" alt="AI Agents Dashboard"/>
-</p>
-
-
-
 
 ### Login & Signup  
 <p align="center">
