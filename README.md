@@ -97,7 +97,7 @@
 
 ---
 
-## ⚙️ Tech Stack (Suggested)  
+## ⚙️ Tech Stack 
 
 | Layer | Technology |
 |--------|-------------|
