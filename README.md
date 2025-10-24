@@ -1,4 +1,4 @@
-
+## || LIVE DEMO COMING SOON ||
 # 💰 Gullak — AI-Powered Micro-Investing App  
 
 > **Save Smart. Invest Small. Grow Big.**  
@@ -101,11 +101,11 @@
 
 | Layer | Technology |
 |--------|-------------|
-| **Frontend** | React Native / Flutter |
+| **Frontend** | React Native  |
 | **Backend** | Node.js + Express |
 | **AI Layer** | Python (LangGraph / CrewAI) for Agentic AI |
-| **Database** | MongoDB / Firebase |
-| **Payment API** | RazorpayX / Groww API |
-| **Hosting** | AWS / GCP |
+| **Database** | MongoDB  |
+| **Payment API** |  Groww API |
+| **Hosting** | AWS  |
 
 ---
